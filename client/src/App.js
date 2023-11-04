@@ -1,4 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import "./components/utilis/variables.css"
 import Home from "./components/views/Home";
 function App() {
   return (
